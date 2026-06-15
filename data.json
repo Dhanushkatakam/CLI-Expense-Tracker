@@ -1,0 +1,48 @@
+{
+    "categories": [
+        {
+            "name": "Food",
+            "budget_limit": 2000.0
+        },
+        {
+            "name": "Travel",
+            "budget_limit": 1500.0
+        },
+        {
+            "name": "Shopping",
+            "budget_limit": 3000.0
+        },
+        {
+            "name": "Drinks",
+            "budget_limit": 800.0
+        },
+        {
+            "name": "Bills",
+            "budget_limit": 5000.0
+        },
+        {
+            "name": "Entertainment",
+            "budget_limit": 1000.0
+        }
+    ],
+    "expenses": [
+        {
+            "amount": 5000.0,
+            "description": "chennai",
+            "date": "2026-06-14",
+            "category": "Travel"
+        },
+        {
+            "amount": 1000.0,
+            "description": "alchohol",
+            "date": "2026-06-14",
+            "category": "Drinks"
+        },
+        {
+            "amount": 1000.0,
+            "description": "Biryani",
+            "date": "2026-06-14",
+            "category": "Food"
+        }
+    ]
+}
